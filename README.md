@@ -34,6 +34,8 @@ Consisting of 8,000 images that are each paired with five different captions whi
 ```
 
 - Download pre-trained models: Download pre-trained models, you may need to download them separately and add them to your project's directory.
+  you can download the models from Kaggle:
+  https://www.kaggle.com/code/shibinta/image-captioning-miniproject
 
 ## Usage
  Run the project using following command
